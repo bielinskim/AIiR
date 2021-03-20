@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<filmoteka>
+	<aktorzy>
+		<aktor id="1">
+			<nazwisko>Wood</nazwisko>
+			<imie>Elijah</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1991-01-28</data_urodzenia>
+		</aktor>
+		<aktor id="2">
+			<nazwisko>Astin</nazwisko>
+			<imie>Sean</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1971-02-25</data_urodzenia>
+		</aktor>
+		<aktor id="3">
+			<nazwisko>Monaghan</nazwisko>
+			<imie>Dominic</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1976-12-08</data_urodzenia>
+		</aktor>
+		<aktor id="4">
+			<nazwisko>Boyd</nazwisko>
+			<imie>Billy</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1968-08-28</data_urodzenia>
+		</aktor>
+		<aktor id="5">
+			<nazwisko>Holm</nazwisko>
+			<imie>Ian</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1931-09-12</data_urodzenia>
+		</aktor>
+		<aktor id="6">
+			<nazwisko>Hamill</nazwisko>
+			<imie>Mark</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1951-09-25</data_urodzenia>
+		</aktor>
+		<aktor id="7">
+			<nazwisko>Ford</nazwisko>
+			<imie>Harrison</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1942-07-13</data_urodzenia>
+		</aktor>
+		<aktor id="8">
+			<nazwisko>Fisher</nazwisko>
+			<imie>Carrie</imie>
+			<plec>Kobieta</plec>
+			<data_urodzenia>1956-10-21</data_urodzenia>
+		</aktor>
+		<aktor id="9">
+			<nazwisko>Williams</nazwisko>
+			<imie>Billy Dee</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1937-04-06</data_urodzenia>
+		</aktor>
+		<aktor id="10">
+			<nazwisko>Daniels</nazwisko>
+			<imie>Anthony</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1946-02-21</data_urodzenia>
+		</aktor>
+		<aktor id="11">
+			<nazwisko>De Niro</nazwisko>
+			<imie>Robert</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1943-08-17</data_urodzenia>
+		</aktor>
+		<aktor id="12">
+			<nazwisko>Woods</nazwisko>
+			<imie>James</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1947-04-18</data_urodzenia>
+		</aktor>
+		<aktor id="13">
+			<nazwisko>McGovern</nazwisko>
+			<imie>Elizabeth</imie>
+			<plec>Kobieta</plec>
+			<data_urodzenia>1961-07-18</data_urodzenia>
+		</aktor>
+		<aktor id="14">
+			<nazwisko>Williams</nazwisko>
+			<imie>Treat</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1951-12-01</data_urodzenia>
+		</aktor>
+		<aktor id="15">
+			<nazwisko>Weld</nazwisko>
+			<imie>Tuesday</imie>
+			<plec>Mężczyzna</plec>
+			<data_urodzenia>1943-08-27</data_urodzenia>
+		</aktor>
+	</aktorzy>
+	<filmy>
+		<film id="1">
+			<nazwa>Władca pierścieni: Powrót króla</nazwa>
+			<rok_premiery>2003</rok_premiery>
+			<gatunki>
+				<gatunek>Akcja</gatunek>
+				<gatunek>Przygodowy</gatunek>
+				<gatunek>Dramat</gatunek>
+				<gatunek>Fantasy</gatunek>
+			</gatunki>
+			<obsada>
+				<rola idAktora="1">Frodo Baggins</rola>
+				<rola idAktora="2">Samwise "Sam" Gamgee</rola>
+				<rola idAktora="3">Meriadok "Merry" Brandybuck</rola>
+				<rola idAktora="4">Peregrin "Pippin" Took</rola>
+				<rola idAktora="5">Bilbo Baggins</rola>
+			</obsada>
+		</film>
+		<film id="2">
+			<nazwa>Gwiezdne wojny: Część V - Imperium kontratakuje</nazwa>
+			<rok_premiery>1980</rok_premiery>
+			<gatunki>
+				<gatunek>Przygodowy</gatunek>
+				<gatunek>Sci - Fi</gatunek>
+			</gatunki>
+			<obsada>
+				<rola idAktora="6">Luke Skywalker</rola>
+				<rola idAktora="7">Han Solo</rola>
+				<rola idAktora="8">Księżniczka Leia Organa</rola>
+				<rola idAktora="9">Lando Calrissian</rola>
+				<rola idAktora="10">C-3PO</rola>
+			</obsada>
+		</film>
+		<film id="3">
+			<nazwa>Dawno temu w Ameryce</nazwa>
+			<rok_premiery>1984</rok_premiery>
+			<gatunki>
+				<gatunek>Dramat</gatunek>
+				<gatunek>Gangsterski</gatunek>
+			</gatunki>
+			<obsada>
+				<rola idAktora="11">David "Noodles" Aaronson</rola>
+				<rola idAktora="12">Maximilian "Max" Bercovicz</rola>
+				<rola idAktora="13">Deborah Gelly</rola>
+				<rola idAktora="14">James Conway O'Donnell</rola>
+				<rola idAktora="15">Carol</rola>
+			</obsada>
+		</film>
+	</filmy>
+</filmoteka>
